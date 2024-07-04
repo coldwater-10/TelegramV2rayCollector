@@ -106,7 +106,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @Watashi_VPN | KR🇰🇷 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @VmessProtocol | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @VmessProtocol | NO🇳🇴 | 0️⃣2️⃣",
@@ -120,7 +120,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @Watashi_VPN | KR🇰🇷 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣2️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @VmessProtocol | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @VmessProtocol | NO🇳🇴 | 0️⃣2️⃣",
@@ -161,7 +161,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣2️⃣",
             "type": "vless",
             "server": "realgod.gamebestir.ir",
             "server_port": 2093,
