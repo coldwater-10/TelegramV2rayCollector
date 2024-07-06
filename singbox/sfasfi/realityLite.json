@@ -106,12 +106,12 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @free_v2rayyy | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Watashi_VPN | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣4️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Outlinev2rayNG | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @Outlinev2rayNG | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @flyv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @mehrosaboran | DE🇩🇪 | 0️⃣3️⃣"
             ]
@@ -120,12 +120,12 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @free_v2rayyy | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Watashi_VPN | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @ProxyForOpeta | FI🇫🇮 | 0️⃣4️⃣",
-                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Outlinev2rayNG | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @Outlinev2rayNG | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @flyv2ray | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @mehrosaboran | DE🇩🇪 | 0️⃣3️⃣"
             ],
@@ -134,7 +134,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @ARv2ray | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "188.245.32.88",
             "server_port": 443,
@@ -260,7 +260,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @V2RayTz | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "188.245.69.77",
             "server_port": 443,
@@ -295,7 +295,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Outlinev2rayNG | DE🇩🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @Outlinev2rayNG | DE🇩🇪 | 0️⃣7️⃣",
             "type": "vless",
             "server": "panel.karunvps.shop",
             "server_port": 1633,
