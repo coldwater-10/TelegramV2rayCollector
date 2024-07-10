@@ -122,8 +122,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | ES🇪🇸 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣6️⃣",
-                "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣3️⃣",
-                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣4️⃣"
+                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣3️⃣"
             ]
         },
         {
@@ -142,8 +141,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | ES🇪🇸 | 0️⃣4️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | DE🇩🇪 | 0️⃣5️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | CA🇨🇦 | 0️⃣6️⃣",
-                "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣3️⃣",
-                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣4️⃣"
+                "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -270,17 +268,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | AT🇦🇹 | 0️⃣3️⃣",
-            "type": "shadowsocks",
-            "server": "95.164.9.144",
-            "server_port": 2927,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ug4Fu79SEREdFGlt2sUyT4",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @kingofilter | NL🇳🇱 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "45.158.171.131",
             "server_port": 8080,
