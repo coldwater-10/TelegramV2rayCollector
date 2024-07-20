@@ -111,8 +111,8 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
@@ -137,8 +137,8 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣6️⃣",
@@ -190,7 +190,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "zula.ir",
             "server_port": 443,
@@ -218,7 +218,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @Watashi_VPN | CA🇨🇦 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "www.gov.se",
             "server_port": 8443,
