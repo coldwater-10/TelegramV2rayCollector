@@ -107,8 +107,7 @@
                 "URL-TEST | رایگان",
                 "KR🇰🇷",
                 "DE🇩🇪",
-                "RU🇷🇺",
-                "TR🇹🇷"
+                "RU🇷🇺"
             ]
         },
         {
@@ -117,8 +116,8 @@
             "outbounds": [
                 "رایگان | REALITY | @Watashi_VPN | KR🇰🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣1️⃣"
+                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -138,7 +137,8 @@
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣"
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -149,16 +149,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "TR🇹🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -207,6 +197,34 @@
             }
         },
         {
+            "tag": "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "45.63.117.10",
+            "server_port": 8080,
+            "uuid": "e3e5f5fa-862d-4246-8fdf-59ab37d6415c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "www.coinmarketcap.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "zLaDmeXeP0TOHAlx8Q3LiKcsIy5fN2B4lx2wNQwdNmI",
+                    "short_id": "02"
+                }
+            }
+        },
+        {
             "tag": "رایگان | REALITY | @VmessProtocol | RU🇷🇺 | 0️⃣1️⃣",
             "type": "vless",
             "server": "31.24.251.160",
@@ -231,34 +249,6 @@
                     "enabled": true,
                     "public_key": "S6BVT_agYq3H0tsAR_opYiDkCNJJMNAXqivqchxz5Wo",
                     "short_id": "8558c658"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "tr1.tradex2080.com",
-            "server_port": 443,
-            "uuid": "7c7af2de-bb97-429f-ac3c-8ef849717491",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.upci.org",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s",
-                    "short_id": "ee46"
                 }
             }
         },
