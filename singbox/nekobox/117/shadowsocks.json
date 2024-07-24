@@ -124,8 +124,7 @@
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣7️⃣"
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -179,8 +178,7 @@
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣6️⃣",
-                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣7️⃣"
+                "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -270,16 +268,6 @@
             "tag": "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "212.102.53.81",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "رایگان | SS | @FAKEOFTVC | GB🇬🇧 | 0️⃣7️⃣",
-            "type": "shadowsocks",
-            "server": "212.102.53.79",
             "server_port": 443,
             "method": "aes-128-gcm",
             "password": "shadowsocks",
