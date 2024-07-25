@@ -106,10 +106,10 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @EliV2ray | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | REALITY | @DailyV2RY | RELAY🚩 | 0️⃣1️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣"
             ]
         },
         {
@@ -117,10 +117,10 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @EliV2ray | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | REALITY | @DailyV2RY | RELAY🚩 | 0️⃣1️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣3️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -155,7 +155,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣3️⃣",
             "type": "vless",
             "server": "81.31.245.106",
             "server_port": 443,
@@ -183,7 +183,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -197,7 +197,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | DE🇩🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "95.164.68.37",
             "server_port": 8443,
@@ -232,7 +232,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "74.119.194.136",
             "server_port": 12345,
