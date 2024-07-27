@@ -109,7 +109,7 @@
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | FI🇫🇮 | 0️⃣4️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣1️⃣"
+                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣"
             ]
         },
         {
@@ -119,7 +119,7 @@
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | FI🇫🇮 | 0️⃣4️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣1️⃣"
+                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -203,11 +203,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "tr1.tradex2080.com",
-            "server_port": 443,
-            "uuid": "7c7af2de-bb97-429f-ac3c-8ef849717491",
+            "server": "137.184.144.136",
+            "server_port": 12345,
+            "uuid": "8f728909-6c42-423e-b46b-4c34449f16ba",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -217,7 +217,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.upci.org",
+                "server_name": "refersion.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -225,8 +225,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s",
-                    "short_id": "ee46"
+                    "public_key": "0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s",
+                    "short_id": "c57d2373"
                 }
             }
         },
