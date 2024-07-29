@@ -111,7 +111,8 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "DE🇩🇪",
-                "TR🇹🇷"
+                "KR🇰🇷",
+                "US🇺🇸"
             ]
         },
         {
@@ -121,7 +122,8 @@
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @v2rayNG_Matsuri | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣5️⃣"
+                "رایگان | REALITY | @VmessProtocol | KR🇰🇷 | 0️⃣2️⃣",
+                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -140,10 +142,20 @@
             "tolerance": 50
         },
         {
-            "tag": "TR🇹🇷",
+            "tag": "KR🇰🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣5️⃣"
+                "رایگان | REALITY | @VmessProtocol | KR🇰🇷 | 0️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "US🇺🇸",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -220,11 +232,11 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @DailyV2RY | TR🇹🇷 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | KR🇰🇷 | 0️⃣2️⃣",
             "type": "vless",
-            "server": "tr1.tradex2080.com",
-            "server_port": 443,
-            "uuid": "7c7af2de-bb97-429f-ac3c-8ef849717491",
+            "server": "132.226.172.147",
+            "server_port": 62001,
+            "uuid": "f61e2705-1fa7-4202-9724-d8a9e4d63917",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -234,7 +246,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "www.upci.org",
+                "server_name": "swdist.apple.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -242,8 +254,36 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s",
-                    "short_id": "ee46"
+                    "public_key": "9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "68.183.121.1",
+            "server_port": 12345,
+            "uuid": "177dfbdf-8337-40ea-8791-906924b9fb2f",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s",
+                    "short_id": "c57d2373"
                 }
             }
         },
