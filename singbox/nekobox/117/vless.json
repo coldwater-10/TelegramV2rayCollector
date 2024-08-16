@@ -210,7 +210,6 @@
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @vpn_xw | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
@@ -269,7 +268,7 @@
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @ServerNett | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣2️⃣",
@@ -522,7 +521,6 @@
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @vpn_xw | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
@@ -581,7 +579,7 @@
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @ServerNett | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣2️⃣",
@@ -2671,20 +2669,6 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vpn_xw | US🇺🇸 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "50.17.137.66",
-            "server_port": 8880,
-            "uuid": "aaddb646-1658-42a3-9b02-29524376c0d5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
             "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.parspack.com",
@@ -4235,7 +4219,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "104.24.20.71",
             "server_port": 443,
