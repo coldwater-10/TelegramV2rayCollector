@@ -107,8 +107,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "US🇺🇸",
-                "KR🇰🇷",
-                "CA🇨🇦"
+                "KR🇰🇷"
             ]
         },
         {
@@ -129,6 +128,7 @@
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
@@ -147,8 +147,7 @@
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VMESS | @v2Line | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | KR🇰🇷 | 0️⃣4️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | CA🇨🇦 | 0️⃣1️⃣"
+                "رایگان | VMESS | @DeamNet_Proxy | KR🇰🇷 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -172,6 +171,7 @@
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @oneclickvpnkeys | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
@@ -200,16 +200,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @DeamNet_Proxy | KR🇰🇷 | 0️⃣4️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "CA🇨🇦",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | VMESS | @ShadowProxy66 | CA🇨🇦 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -634,6 +624,42 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "cake.capellare.com"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vmess",
+            "server": "172.66.213.38",
+            "server_port": 443,
+            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "green-morning-ce19.mehdipost667.workers.dev",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/afrhms16v.bestxray.buzz\/linkws",
+                "headers": {
+                    "Host": "green-morning-ce19.mehdipost667.workers.dev"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -1162,42 +1188,6 @@
                     "Host": "amd2.720208.xyz"
                 },
                 "max_early_data": 2048,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | CA🇨🇦 | 0️⃣1️⃣",
-            "type": "vmess",
-            "server": "172.66.213.38",
-            "server_port": 443,
-            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "green-morning-ce19.mehdipost667.workers.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/afrhms16v.bestxray.buzz\/linkws",
-                "headers": {
-                    "Host": "green-morning-ce19.mehdipost667.workers.dev"
-                },
-                "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
