@@ -109,6 +109,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣4️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣5️⃣",
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | PL🇵🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | CH🇨🇭 | 0️⃣3️⃣"
@@ -122,6 +123,7 @@
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | JP🇯🇵 | 0️⃣4️⃣",
+                "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣5️⃣",
                 "رایگان | SS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | PL🇵🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | CH🇨🇭 | 0️⃣3️⃣"
@@ -167,6 +169,16 @@
             "server_port": 800,
             "method": "chacha20-ietf-poly1305",
             "password": "G!yBwPWH3Vao",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @OutlineVpnOfficial | IN🇮🇳 | 0️⃣5️⃣",
+            "type": "shadowsocks",
+            "server": "165.22.208.240",
+            "server_port": 4917,
+            "method": "chacha20-ietf-poly1305",
+            "password": "l2zEoLV7XbwU4ZvGN46gyr",
             "plugin": "",
             "plugin_opts": ""
         },
