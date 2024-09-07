@@ -106,7 +106,8 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ]
@@ -115,7 +116,8 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
             ],
@@ -124,7 +126,7 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "85.224.36.38",
             "server_port": 443,
@@ -148,6 +150,34 @@
                     "enabled": true,
                     "public_key": "KLQGU37PU52JQgb0fWgKCPpePrJSjRUcL2JZJjUfyUo",
                     "short_id": "49b7ac26"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "185.234.64.35",
+            "server_port": 8443,
+            "uuid": "d392f564-29df-4515-aaba-f64cf0b8a7c3",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "198.41.193.45",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9_hNyoPG96fNIMh4IBQ3gs88n86vwCjp53tL_X_2dy4",
+                    "short_id": "0cfbfab0b04ca069"
                 }
             }
         },
