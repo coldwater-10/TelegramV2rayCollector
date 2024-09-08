@@ -106,40 +106,16 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "SE🇸🇪",
-                "FR🇫🇷",
-                "DE🇩🇪"
+                "DE🇩🇪",
+                "FR🇫🇷"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣4️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "SE🇸🇪",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣3️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "FR🇫🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | REALITY | @Capital_NET | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | REALITY | @FAKEOFTVC | FR🇫🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -158,88 +134,14 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | SE🇸🇪 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "85.224.36.38",
-            "server_port": 443,
-            "uuid": "a1042a4a-d02f-42f1-bec8-ae6bf6527298",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.whatismyip.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "KLQGU37PU52JQgb0fWgKCPpePrJSjRUcL2JZJjUfyUo",
-                    "short_id": "49b7ac26"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | FR🇫🇷 | 0️⃣4️⃣",
-            "type": "vless",
-            "server": "185.234.64.35",
-            "server_port": 8443,
-            "uuid": "d392f564-29df-4515-aaba-f64cf0b8a7c3",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "198.41.193.45",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9_hNyoPG96fNIMh4IBQ3gs88n86vwCjp53tL_X_2dy4",
-                    "short_id": "0cfbfab0b04ca069"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @FAKEOFTVC | FR🇫🇷 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "dl.downloadha.blog",
-            "server_port": 443,
-            "uuid": "da6b6403-557b-4f6a-8b6b-8e756afb4035",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "icloud.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "B2iOhn9dfq_9_Q-MH5Yz8PPl2LZhJCnT9G-cckMNf0A",
-                    "short_id": ""
-                }
-            }
+            "tag": "FR🇫🇷",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | REALITY | @FAKEOFTVC | FR🇫🇷 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
         },
         {
             "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣1️⃣",
@@ -280,6 +182,34 @@
                     "enabled": true,
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @FAKEOFTVC | FR🇫🇷 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "dl.downloadha.blog",
+            "server_port": 443,
+            "uuid": "da6b6403-557b-4f6a-8b6b-8e756afb4035",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "icloud.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "B2iOhn9dfq_9_Q-MH5Yz8PPl2LZhJCnT9G-cckMNf0A",
+                    "short_id": ""
                 }
             }
         },
