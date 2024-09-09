@@ -111,6 +111,9 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | SS | @DeamNet_Proxy | ES🇪🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @VmessProtocol | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣3️⃣",
@@ -123,6 +126,9 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @DeamNet_Proxy | ES🇪🇸 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+                "رایگان | SS | @VmessProtocol | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | PL🇵🇱 | 0️⃣1️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | SS | @OutlineVpnOfficial | US🇺🇸 | 0️⃣3️⃣",
@@ -140,6 +146,36 @@
             "server_port": 40076,
             "method": "chacha20-ietf-poly1305",
             "password": "kgEzSguyxYHRFHC8ssuN7e",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣1️⃣",
+            "type": "shadowsocks",
+            "server": "185.5.38.111",
+            "server_port": 55988,
+            "method": "chacha20-ietf-poly1305",
+            "password": "RYE3VRFK68URNDbmBXmQ4zTcHu3pmb9rKDcaYxPz6UmhELD9e8Uqb9xbTNWRjAnkGM1KHnR2wxpKEBKrPy8jFmJxeWcB9LbA",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
+            "type": "shadowsocks",
+            "server": "51.68.206.229",
+            "server_port": 8080,
+            "method": "aes-256-gcm",
+            "password": "KixLvKzwjekG00rm",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | DE🇩🇪 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "146.19.233.101",
+            "server_port": 29682,
+            "method": "chacha20-ietf-poly1305",
+            "password": "m09A1lhsNMVKMLtvEKQlof",
             "plugin": "",
             "plugin_opts": ""
         },
