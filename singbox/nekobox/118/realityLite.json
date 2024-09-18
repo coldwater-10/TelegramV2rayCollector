@@ -110,31 +110,31 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | HK🇭🇰 | 0️⃣2️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | HK🇭🇰 | 0️⃣3️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣5️⃣",
-                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | HK🇭🇰 | 0️⃣2️⃣",
-                "رایگان | REALITY | @FAKEOFTVC | HK🇭🇰 | 0️⃣3️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | REALITY | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
             "type": "vless",
             "server": "188.245.125.54",
             "server_port": 12345,
@@ -162,7 +162,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -176,7 +176,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣5️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -190,7 +190,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -218,7 +218,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @FAKEOFTVC | HK🇭🇰 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
             "type": "vless",
             "server": "82.152.142.68",
             "server_port": 35426,
@@ -246,7 +246,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @FAKEOFTVC | HK🇭🇰 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣",
             "type": "vless",
             "server": "82.152.142.65",
             "server_port": 35426,
