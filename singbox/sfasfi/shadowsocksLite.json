@@ -106,33 +106,33 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣7️⃣"
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣2️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣4️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣5️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣6️⃣",
+                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣7️⃣"
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣1️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣2️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣3️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣4️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣5️⃣",
+                "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣6️⃣",
+                "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "vienna.telegavpn.com",
             "server_port": 61992,
@@ -142,7 +142,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣2️⃣",
             "type": "shadowsocks",
             "server": "vienna.telegavpn.com",
             "server_port": 61992,
@@ -152,7 +152,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣3️⃣",
             "type": "shadowsocks",
             "server": "vienna.telegavpn.com",
             "server_port": 61992,
@@ -162,7 +162,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣4️⃣",
             "type": "shadowsocks",
             "server": "vienna.telegavpn.com",
             "server_port": 61992,
@@ -172,7 +172,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "vienna.telegavpn.com",
             "server_port": 61992,
@@ -182,7 +182,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣6️⃣",
             "type": "shadowsocks",
             "server": "vienna.telegavpn.com",
             "server_port": 61992,
@@ -192,7 +192,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @FAKEOFTVC | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | SS | @FAKEOFTVC | NL🇳🇱 | 0️⃣7️⃣",
             "type": "shadowsocks",
             "server": "89.23.103.125",
             "server_port": 42090,
