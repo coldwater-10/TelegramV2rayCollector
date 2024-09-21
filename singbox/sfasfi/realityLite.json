@@ -108,8 +108,8 @@
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @v2ray1_ng | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | REALITY | @v2ray1_ng | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @v2ray1_ng | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | REALITY | @v2ray1_ng | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣"
             ]
         },
@@ -119,8 +119,8 @@
             "outbounds": [
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @v2ray1_ng | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | REALITY | @v2ray1_ng | FR🇫🇷 | 0️⃣3️⃣",
+                "رایگان | REALITY | @v2ray1_ng | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | REALITY | @v2ray1_ng | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -156,7 +156,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @v2ray1_ng | GB🇬🇧 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @v2ray1_ng | GB🇬🇧 | 0️⃣4️⃣",
             "type": "vless",
             "server": "45.140.167.94",
             "server_port": 8443,
@@ -191,7 +191,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @v2ray1_ng | FR🇫🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @v2ray1_ng | FR🇫🇷 | 0️⃣5️⃣",
             "type": "vless",
             "server": "212.47.231.216",
             "server_port": 443,
