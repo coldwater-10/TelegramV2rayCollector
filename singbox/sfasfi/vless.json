@@ -1889,7 +1889,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "de2547e9-1fea-4e89-b3f4-b0414d3ed1af",
+            "uuid": "4a0eadc8-cc2f-4bd3-8908-13d97f3ac59f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1912,7 +1912,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "de2547e9-1fea-4e89-b3f4-b0414d3ed1af",
+            "uuid": "4a0eadc8-cc2f-4bd3-8908-13d97f3ac59f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5401,7 +5401,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "021c0b5c-8bea-4788-8331-bcb4715463ba",
+            "uuid": "d7084b98-36ec-42e7-a40a-232dc6248ba6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5424,7 +5424,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "a3b5503b-837f-437c-9dfc-a224d3df030f",
+            "uuid": "021c0b5c-8bea-4788-8331-bcb4715463ba",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5447,7 +5447,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "a3b5503b-837f-437c-9dfc-a224d3df030f",
+            "uuid": "021c0b5c-8bea-4788-8331-bcb4715463ba",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5470,7 +5470,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "4a0eadc8-cc2f-4bd3-8908-13d97f3ac59f",
+            "uuid": "a3b5503b-837f-437c-9dfc-a224d3df030f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5493,7 +5493,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "4a0eadc8-cc2f-4bd3-8908-13d97f3ac59f",
+            "uuid": "a3b5503b-837f-437c-9dfc-a224d3df030f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
