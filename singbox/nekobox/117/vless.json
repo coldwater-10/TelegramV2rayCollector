@@ -2702,7 +2702,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "427093ea-ebac-4d10-a63e-841060a82011",
+            "uuid": "7bd66866-fbf4-4d10-a2cb-7188f37eaff7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2734,7 +2734,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "1cf9853a-7970-429a-83eb-1b866e2acf99",
+            "uuid": "8ae2c48b-35fa-4d46-8bc2-b446930bfef9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2766,7 +2766,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "7f9c1f40-023d-49dc-9346-14d096eea7a0",
+            "uuid": "48779c32-9679-421f-b520-29d7ea9beb7b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2798,7 +2798,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "c6355c77-0a0b-4e88-a4fe-441ed0c2b59d",
+            "uuid": "427093ea-ebac-4d10-a63e-841060a82011",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2830,7 +2830,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "6463d1a5-d7f2-4fc3-adc9-56b24f3655fa",
+            "uuid": "1cf9853a-7970-429a-83eb-1b866e2acf99",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2851,7 +2851,7 @@
                 "type": "ws",
                 "path": "\/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880",
                 "headers": {
-                    "Host": "http.www.speedtest.net.fast.com.unlimiteddev.ir."
+                    "Host": "TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -2862,7 +2862,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "8e2a71d1-8c10-4048-b73d-77fff2ca87d1",
+            "uuid": "7f9c1f40-023d-49dc-9346-14d096eea7a0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2883,7 +2883,7 @@
                 "type": "ws",
                 "path": "\/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880",
                 "headers": {
-                    "Host": "http.www.speedtest.net.fast.com.unlimiteddev.ir."
+                    "Host": "TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -2894,7 +2894,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "d93bc0b4-864a-451a-9169-f31219268a0d",
+            "uuid": "c6355c77-0a0b-4e88-a4fe-441ed0c2b59d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2915,7 +2915,7 @@
                 "type": "ws",
                 "path": "\/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8880",
                 "headers": {
-                    "Host": "http.www.speedtest.net.fast.com.unlimiteddev.ir."
+                    "Host": "TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
