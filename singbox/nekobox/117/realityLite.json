@@ -105,33 +105,33 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | REALITY | @nofiltering2 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | REALITY | @Good_V2rayy | RELAY🚩 | 0️⃣2️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣6️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | REALITY | @nofiltering2 | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | REALITY | @nofiltering2 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | REALITY | @Good_V2rayy | RELAY🚩 | 0️⃣2️⃣"
+                "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣6️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | REALITY | @nofiltering2 | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣6️⃣",
             "type": "vless",
             "server": "45.88.200.179",
             "server_port": 443,
@@ -159,7 +159,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -173,7 +173,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -187,7 +187,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -201,7 +201,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -229,7 +229,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @nofiltering2 | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @nofiltering2 | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "168.119.184.101",
             "server_port": 443,
@@ -257,7 +257,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Good_V2rayy | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣",
             "type": "vless",
             "server": "176.124.202.240",
             "server_port": 30118,
