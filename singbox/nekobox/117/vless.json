@@ -276,6 +276,7 @@
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣3️⃣",
@@ -489,6 +490,7 @@
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣3️⃣",
@@ -1853,7 +1855,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "571b5085-1185-4fb1-adbf-5ef2cee9fe9c",
+            "uuid": "769725df-3eaa-4495-8f40-43da878d024d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1876,7 +1878,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6afa3ff1-f479-47fb-b173-130e9c4b4880",
+            "uuid": "571b5085-1185-4fb1-adbf-5ef2cee9fe9c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1899,7 +1901,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "6afa3ff1-f479-47fb-b173-130e9c4b4880",
+            "uuid": "571b5085-1185-4fb1-adbf-5ef2cee9fe9c",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1922,7 +1924,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
+            "uuid": "6afa3ff1-f479-47fb-b173-130e9c4b4880",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1945,7 +1947,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
+            "uuid": "6afa3ff1-f479-47fb-b173-130e9c4b4880",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1968,7 +1970,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "93c5256b-25c8-46fb-bc0a-82753cfcaac3",
+            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1991,7 +1993,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "93c5256b-25c8-46fb-bc0a-82753cfcaac3",
+            "uuid": "9094c79a-cf8e-444e-b29c-3b554a1a6c2f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4848,6 +4850,38 @@
                     "Host": "i-am-melo.com"
                 },
                 "max_early_data": 2048,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "7518566d.BpB-wOrker-paNeL-TEsT11.PaGeS.dev",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/59jqkxPvg730UkWn?ed=2560",
+                "headers": {
+                    "Host": "7518566D.bPb-wORkEr-Panel-TESt11.PageS.DEV"
+                },
+                "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
