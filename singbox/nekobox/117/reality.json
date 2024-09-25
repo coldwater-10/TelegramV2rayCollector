@@ -105,32 +105,20 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "NL🇳🇱",
                 "DE🇩🇪",
-                "US🇺🇸"
+                "US🇺🇸",
+                "NL🇳🇱"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣6️⃣",
-                "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @nofiltering2 | DE🇩🇪 | 0️⃣6️⃣",
-                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "NL🇳🇱",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣6️⃣",
+                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -161,67 +149,14 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @ShadowProxy66 | NL🇳🇱 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "45.88.200.179",
-            "server_port": 443,
-            "uuid": "52fe910a-2ef3-4755-93ad-82dfe61ccb4d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "cloudflare.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "bOOWOOCtt3hlDEv6eCVvCl9oBfXC72YIHEoMGwph-C0",
-                    "short_id": "42"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "176.124.202.240",
-            "server_port": 30118,
-            "uuid": "697a8872-71d5-4686-a287-d348227b4178",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "kARv3BG0DtXiSIkFM9pTwOuHkR8vspYc73fvxprQaUw",
-                    "short_id": "79ab97ea"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-?ed=2053",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
+            "tag": "NL🇳🇱",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
         },
         {
             "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
@@ -319,6 +254,41 @@
                     "public_key": "fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs",
                     "short_id": "6f9deca7"
                 }
+            }
+        },
+        {
+            "tag": "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "176.124.202.240",
+            "server_port": 30118,
+            "uuid": "697a8872-71d5-4686-a287-d348227b4178",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "kARv3BG0DtXiSIkFM9pTwOuHkR8vspYc73fvxprQaUw",
+                    "short_id": "79ab97ea"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-@Good_v2aryy-?ed=2053",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
