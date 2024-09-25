@@ -110,6 +110,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
+                "FR🇫🇷",
                 "DE🇩🇪",
                 "US🇺🇸",
                 "NL🇳🇱"
@@ -119,9 +120,8 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @proxy_kafee | FR🇫🇷 | 0️⃣1️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @nofiltering2 | DE🇩🇪 | 0️⃣6️⃣",
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
@@ -131,12 +131,20 @@
             "tolerance": 50
         },
         {
+            "tag": "FR🇫🇷",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | REALITY | @proxy_kafee | FR🇫🇷 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
             "tag": "DE🇩🇪",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
-                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @nofiltering2 | DE🇩🇪 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -164,39 +172,46 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @proxy_kafee | FR🇫🇷 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "49.12.193.246",
-            "server_port": 443,
-            "uuid": "bf82a225-edb7-4b16-b7b3-96421fc85a79",
+            "server": "185.234.64.35",
+            "server_port": 8443,
+            "uuid": "3ae99ca1-1964-43a0-ac50-0f69fb64a18b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "104.16.220.32",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "9_hNyoPG96fNIMh4IBQ3gs88n86vwCjp53tL_X_2dy4",
+                    "short_id": "0cfbfab0b04ca069"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "grpc",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
-            "uuid": "c3c64c0d-014a-4395-b6b8-823a6bed7e96",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "49.12.193.246",
-            "server_port": 443,
-            "uuid": "46286ed2-9abf-420b-b510-c9e663cdbadc",
+            "uuid": "b8f5ba57-4439-4fe0-b3bd-47f398b3869a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
