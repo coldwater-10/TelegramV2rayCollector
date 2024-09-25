@@ -175,9 +175,9 @@
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣",
@@ -373,9 +373,9 @@
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣7️⃣",
                 "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣",
@@ -2211,7 +2211,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "3b06dbb2-c01a-4fca-8ab0-ead2e82492de",
+            "uuid": "d0478338-89ae-43c8-ab64-b1b6f0a23c3b",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2221,7 +2221,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com",
+                "server_name": "Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -2230,9 +2230,9 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=8080",
+                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=8443",
                 "headers": {
-                    "Host": "Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com"
+                    "Host": "Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -2243,7 +2243,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "f1958033-d138-4ce7-a418-4dd87559e8e3",
+            "uuid": "3b06dbb2-c01a-4fca-8ab0-ead2e82492de",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2275,7 +2275,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "f1958033-d138-4ce7-a418-4dd87559e8e3",
+            "uuid": "3b06dbb2-c01a-4fca-8ab0-ead2e82492de",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2303,11 +2303,43 @@
             }
         },
         {
+            "tag": "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣4️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "3b06dbb2-c01a-4fca-8ab0-ead2e82492de",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=8080",
+                "headers": {
+                    "Host": "Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
             "tag": "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "e5bd647a-cab3-41b8-881d-3f2101d65c23",
+            "uuid": "f1958033-d138-4ce7-a418-4dd87559e8e3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2339,7 +2371,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
-            "uuid": "2b27d896-2d8e-4b1a-940a-140f0ca97519",
+            "uuid": "f1958033-d138-4ce7-a418-4dd87559e8e3",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2361,38 +2393,6 @@
                 "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=2480",
                 "headers": {
                     "Host": "Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣7️⃣",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8443,
-            "uuid": "6bc0bb37-4893-48f1-b2b1-fa525aafbb7d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed=8080",
-                "headers": {
-                    "Host": "Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
