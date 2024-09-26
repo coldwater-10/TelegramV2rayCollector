@@ -106,7 +106,7 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | REALITY | @proxy_kafee | FR🇫🇷 | 0️⃣1️⃣",
+                "رایگان | REALITY | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
@@ -116,7 +116,7 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | REALITY | @proxy_kafee | FR🇫🇷 | 0️⃣1️⃣",
+                "رایگان | REALITY | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
@@ -126,11 +126,11 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | REALITY | @proxy_kafee | FR🇫🇷 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
-            "server": "185.234.64.35",
+            "server": "103.35.189.42",
             "server_port": 8443,
-            "uuid": "3ae99ca1-1964-43a0-ac50-0f69fb64a18b",
+            "uuid": "0adf9ba5-1519-42e4-aba9-bcce993546b1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -140,7 +140,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "104.16.220.32",
+                "server_name": "104.17.152.139",
                 "insecure": false,
                 "utls": {
                     "enabled": true,
@@ -148,8 +148,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "9_hNyoPG96fNIMh4IBQ3gs88n86vwCjp53tL_X_2dy4",
-                    "short_id": "0cfbfab0b04ca069"
+                    "public_key": "zCELVBcsSmZcAU_kLjLLy5RwM4NJK8GPNK4A6Bu4hU8",
+                    "short_id": "825728c67d1f07ae"
                 }
             },
             "transport": {
