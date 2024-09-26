@@ -161,10 +161,9 @@
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣6️⃣",
@@ -298,8 +297,10 @@
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣5️⃣",
@@ -367,10 +368,9 @@
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣6️⃣",
@@ -513,8 +513,10 @@
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣6️⃣",
+                "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣7️⃣",
                 "رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ARv2ray | CA🇨🇦 | 0️⃣5️⃣"
@@ -1438,39 +1440,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 443,
-            "uuid": "biatoo--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON",
-                "headers": {
-                    "Host": "snapp.taxi"
-                },
-                "max_early_data": 2048,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -1493,7 +1463,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "snapptrip.com"
                 },
@@ -1502,11 +1472,11 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "tel--ZEDMODEON",
+            "uuid": "Too--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1525,20 +1495,20 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-@ZEDMODEON",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
-                    "Host": "snappshop.ir"
+                    "Host": "Ninisite.com"
                 },
                 "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "Join--ZEDMODEON",
+            "uuid": "tell--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1557,7 +1527,7 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
                 "headers": {
                     "Host": "snapp.express"
                 },
@@ -3845,7 +3815,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.drlimit.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -3855,7 +3825,7 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "SpeedTest.net",
-            "server_port": 80,
+            "server_port": 443,
             "uuid": "c717d4ca-7ca1-44d8-a987-b1b430fe3d22",
             "flow": "",
             "packet_encoding": "xudp",
@@ -3864,11 +3834,20 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.drlimit.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -3878,7 +3857,7 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "SpeedTest.net",
-            "server_port": 443,
+            "server_port": 80,
             "uuid": "c717d4ca-7ca1-44d8-a987-b1b430fe3d22",
             "flow": "",
             "packet_encoding": "xudp",
@@ -3887,20 +3866,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "speedtest.net",
-                "insecure": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.drlimit.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -3910,6 +3880,38 @@
             "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "SpeedTest.net",
+            "server_port": 443,
+            "uuid": "c717d4ca-7ca1-44d8-a987-b1b430fe3d22",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "speedtest.net",
+                "insecure": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "SpeedTest.net",
             "server_port": 80,
             "uuid": "c717d4ca-7ca1-44d8-a987-b1b430fe3d22",
             "flow": "",
@@ -3923,14 +3925,14 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.drlimit.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "SpeedTest.net",
             "server_port": 443,
@@ -3955,30 +3957,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "SpeedTest.net",
-            "server_port": 80,
-            "uuid": "c717d4ca-7ca1-44d8-a987-b1b430fe3d22",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimit.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimit.net"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -4001,7 +3980,7 @@
                 "type": "ws",
                 "path": "\/",
                 "headers": {
-                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net"
+                    "Host": "wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -5176,11 +5155,11 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣2️⃣",
             "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "Www.speedtest.net",
             "server_port": 8080,
-            "uuid": "Join--ZEDMODEON",
+            "uuid": "Bia--ZEDMODEON",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -5190,11 +5169,48 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣5️⃣",
             "type": "vless",
-            "server": "188.114.98.45",
+            "server": "www.speedtest.net",
             "server_port": 8080,
-            "uuid": "tel--ZEDMODEON",
+            "uuid": "9a35d246-06be-4d40-9f8b-ef94a33d69c4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/v2pedia?ed=8080",
+                "headers": {
+                    "Host": "9.V2.d.www.speedtest.net.debian.org.dnschecker.v2logy.iR."
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "e6242b23-e697-4952-9246-eff8afeb2910",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @V2pedia | CA🇨🇦 | 0️⃣7️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "bc757570-d942-4c8f-91a1-683275b0502d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
