@@ -108,6 +108,7 @@
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣3️⃣"
@@ -120,6 +121,7 @@
                 "رایگان | SS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣3️⃣",
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
                 "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣1️⃣",
                 "رایگان | SS | @FAKEOFTVC | SG🇸🇬 | 0️⃣2️⃣",
                 "رایگان | SS | @FAKEOFTVC | AT🇦🇹 | 0️⃣3️⃣"
@@ -155,6 +157,16 @@
             "server_port": 80,
             "method": "chacha20-ietf-poly1305",
             "password": "sB7SkBBphROg8n9Oyth5tM",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣4️⃣",
+            "type": "shadowsocks",
+            "server": "147.45.75.246",
+            "server_port": 36619,
+            "method": "aes-256-gcm",
+            "password": "pBmhmqSrdbx8twKpv13GEA",
             "plugin": "",
             "plugin_opts": ""
         },
