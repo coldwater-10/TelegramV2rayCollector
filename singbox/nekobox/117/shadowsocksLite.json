@@ -109,7 +109,7 @@
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | BH🇧🇭 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣5️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣"
             ]
         },
         {
@@ -120,7 +120,7 @@
                 "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣2️⃣",
                 "رایگان | SS | @VmessProtocol | BH🇧🇭 | 0️⃣3️⃣",
                 "رایگان | SS | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣5️⃣"
+                "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -167,7 +167,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @VmessProtocol | SE🇸🇪 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @VmessProtocol | GB🇬🇧 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "147.45.75.246",
             "server_port": 36619,
