@@ -105,19 +105,19 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣"
             ]
@@ -126,19 +126,19 @@
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @FAKEOFTVC | US🇺🇸 | 0️⃣1️⃣"
             ],
@@ -147,7 +147,70 @@
             "tolerance": 50
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "35.181.188.78",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣",
+            "type": "trojan",
+            "server": "3.64.191.45",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣",
+            "type": "trojan",
+            "server": "3.77.190.5",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣",
             "type": "trojan",
             "server": "16.171.192.204",
             "server_port": 22222,
@@ -168,7 +231,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣",
             "type": "trojan",
             "server": "13.49.17.209",
             "server_port": 22222,
@@ -189,7 +252,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣",
             "type": "trojan",
             "server": "34.241.114.233",
             "server_port": 22222,
@@ -210,7 +273,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣7️⃣",
             "type": "trojan",
             "server": "18.203.199.110",
             "server_port": 22222,
@@ -231,49 +294,28 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
-            "type": "trojan",
-            "server": "13.42.117.7",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣6️⃣",
-            "type": "trojan",
-            "server": "18.169.138.104",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "13.49.111.217",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "13.60.131.206",
             "server_port": 22222,
@@ -294,7 +336,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "18.194.162.32",
             "server_port": 22222,
@@ -315,7 +357,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣4️⃣",
             "type": "trojan",
             "server": "3.123.110.11",
             "server_port": 22222,
@@ -336,30 +378,9 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣4️⃣",
-            "type": "trojan",
-            "server": "100.27.180.3",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣5️⃣",
             "type": "trojan",
-            "server": "3.129.232.97",
+            "server": "100.27.180.3",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -382,34 +403,6 @@
             "type": "trojan",
             "server": "162.159.138.232",
             "server_port": 8443,
-            "password": "auto",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "e9464f45.trauma-2r4.pages.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "e9464f45.trauma-2r4.pages.dev"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
-            "type": "trojan",
-            "server": "104.20.19.168",
-            "server_port": 2083,
             "password": "auto",
             "multiplex": {
                 "enabled": false,
