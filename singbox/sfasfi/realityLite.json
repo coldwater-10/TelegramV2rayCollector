@@ -107,7 +107,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
             ]
@@ -117,7 +117,7 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
-                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+                "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | REALITY | @Good_V2rayy | NL🇳🇱 | 0️⃣2️⃣"
             ],
@@ -140,7 +140,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣4️⃣",
+            "tag": "رایگان | REALITY | @VmessProtocol | FR🇫🇷 | 0️⃣5️⃣",
             "type": "vless",
             "server": "141.94.237.82",
             "server_port": 8880,
