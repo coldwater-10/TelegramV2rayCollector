@@ -114,8 +114,7 @@
                 "US🇺🇸",
                 "DE🇩🇪",
                 "CA🇨🇦",
-                "CR🇨🇷",
-                "IR🇮🇷"
+                "CR🇨🇷"
             ]
         },
         {
@@ -296,9 +295,7 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @VlessConfig | DE🇩🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
@@ -310,8 +307,9 @@
                 "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣4️⃣",
                 "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | CR🇨🇷 | 0️⃣4️⃣",
-                "رایگان | VLESS | @nofiltering2 | IR🇮🇷 | 0️⃣6️⃣"
+                "رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣2️⃣",
+                "رایگان | VLESS | @Outlinev2rayNG | CR🇨🇷 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -504,9 +502,7 @@
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
                 "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -535,7 +531,9 @@
                 "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣3️⃣",
                 "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣4️⃣",
-                "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣5️⃣"
+                "رایگان | VLESS | @V2rayNGn | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -546,16 +544,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VLESS | @Outlinev2rayNG | CR🇨🇷 | 0️⃣4️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "IR🇮🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | VLESS | @nofiltering2 | IR🇮🇷 | 0️⃣6️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -5226,7 +5214,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "Speedtest.net",
             "server_port": 443,
@@ -5255,34 +5243,6 @@
                 },
                 "max_early_data": 2048,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "dEbngCbC.kouRdspEed.ir",
-            "server_port": 8080,
-            "uuid": "Mahanvpn--insta3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
-            "type": "vless",
-            "server": "172.67.160.192",
-            "server_port": 8080,
-            "uuid": "Mahanvpn--insta3",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
@@ -5575,6 +5535,34 @@
             }
         },
         {
+            "tag": "رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "dEbngCbC.kouRdspEed.ir",
+            "server_port": 8080,
+            "uuid": "Mahanvpn--insta3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣2️⃣",
+            "type": "vless",
+            "server": "172.67.160.192",
+            "server_port": 8080,
+            "uuid": "Mahanvpn--insta3",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
             "tag": "رایگان | VLESS | @Outlinev2rayNG | CR🇨🇷 | 0️⃣4️⃣",
             "type": "vless",
             "server": "190.93.247.155",
@@ -5595,27 +5583,6 @@
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @nofiltering2 | IR🇮🇷 | 0️⃣6️⃣",
-            "type": "vless",
-            "server": "ch.arsi-vip.com",
-            "server_port": 8585,
-            "uuid": "d9059c35-a221-46d5-b0c7-b0815438d9c8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@v2rayng_vpnn@v2rayng_vpnn@v2rayng_vpnn@v2rayng_vpnn@v2rayng_vpnn@v2rayng_vpnn@v2rayng_vpnn@v2rayng_vpnn",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
             }
         },
         {
