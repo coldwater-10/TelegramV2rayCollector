@@ -104,39 +104,16 @@
             "tag": "proxy",
             "type": "selector",
             "outbounds": [
-                "URL-TEST | رایگان",
-                "AE🇦🇪"
+                "URL-TEST | رایگان"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣1️⃣"
-            ],
+            "outbounds": null,
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
-        },
-        {
-            "tag": "AE🇦🇪",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣1️⃣",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
-            "plugin": "",
-            "plugin_opts": ""
         },
         {
             "tag": "direct",
