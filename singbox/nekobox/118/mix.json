@@ -115,14 +115,15 @@
                 "DE🇩🇪",
                 "SE🇸🇪",
                 "CA🇨🇦",
-                "CR🇨🇷",
                 "IR🇮🇷",
+                "CR🇨🇷",
                 "NL🇳🇱",
                 "FI🇫🇮",
                 "IE🇮🇪",
                 "GB🇬🇧",
                 "FR🇫🇷",
-                "BH🇧🇭"
+                "BH🇧🇭",
+                "AE🇦🇪"
             ]
         },
         {
@@ -149,7 +150,6 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
@@ -355,9 +355,10 @@
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣4️⃣",
                 "رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣6️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | CR🇨🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DarkTeam_VPN | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣4️⃣",
                 "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | CR🇨🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣5️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣",
                 "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣",
@@ -370,7 +371,8 @@
                 "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣5️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣",
                 "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣5️⃣",
-                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣"
+                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
+                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -400,7 +402,6 @@
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
@@ -648,21 +649,22 @@
             "tolerance": 50
         },
         {
-            "tag": "CR🇨🇷",
+            "tag": "IR🇮🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VLESS | @ShadowProxy66 | CR🇨🇷 | 0️⃣1️⃣"
+                "رایگان | VLESS | @DarkTeam_VPN | IR🇮🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣4️⃣",
+                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "IR🇮🇷",
+            "tag": "CR🇨🇷",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣4️⃣",
-                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣"
+                "رایگان | VLESS | @ShadowProxy66 | CR🇨🇷 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -730,6 +732,16 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣"
+            ],
+            "url": "https:\/\/www.gstatic.com\/generate_204",
+            "interval": "5m",
+            "tolerance": 50
+        },
+        {
+            "tag": "AE🇦🇪",
+            "type": "urltest",
+            "outbounds": [
+                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -1361,32 +1373,6 @@
                 "path": "\/",
                 "headers": {
                     "Host": "wap.hostmjj.com"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
-            "type": "vmess",
-            "server": "104.16.243.91",
-            "server_port": 2095,
-            "uuid": "200d3219-285b-4eeb-9bec-941268c71d21",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=512",
-                "headers": {
-                    "Host": "sgcdn3.fask511.cfd"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -3508,7 +3494,7 @@
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
-            "uuid": "0656bc74-42f7-4467-83a1-3b79b7a13a09",
+            "uuid": "a0eb1c6c-ffb7-48d8-a58b-1bb484a766eb",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3540,7 +3526,7 @@
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
-            "uuid": "be16f4f7-0a74-4b5d-9f6d-1f4823d18672",
+            "uuid": "e765c408-e567-434c-93a3-2a56b88a93b6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3572,7 +3558,7 @@
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
-            "uuid": "60042392-0803-4519-994f-77b7ab6f3635",
+            "uuid": "0656bc74-42f7-4467-83a1-3b79b7a13a09",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3604,7 +3590,7 @@
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
-            "uuid": "b177a5f6-935e-45bb-823c-91820e54842e",
+            "uuid": "be16f4f7-0a74-4b5d-9f6d-1f4823d18672",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3636,7 +3622,7 @@
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
-            "uuid": "d9958857-af9f-48df-ace2-c71780ee357e",
+            "uuid": "60042392-0803-4519-994f-77b7ab6f3635",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3668,7 +3654,7 @@
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
-            "uuid": "a0a949eb-e197-453a-a76c-b763ac8ab432",
+            "uuid": "b177a5f6-935e-45bb-823c-91820e54842e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3700,7 +3686,7 @@
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
-            "uuid": "afb5597d-4ba4-4d64-83b8-85be29346556",
+            "uuid": "d9958857-af9f-48df-ace2-c71780ee357e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -6827,26 +6813,17 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | CR🇨🇷 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @DarkTeam_VPN | IR🇮🇷 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "190.93.247.152",
-            "server_port": 80,
-            "uuid": "572e7789-76af-51c8-928b-e327d862f16c",
+            "server": "ir1.ordeloil.com",
+            "server_port": 2083,
+            "uuid": "c882bbc8-02cc-4e1d-94b8-d5a84fbb4898",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/vless",
-                "headers": {
-                    "Host": "Uk1.vless.site."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
             }
         },
         {
@@ -6881,6 +6858,29 @@
                 "path": "\/",
                 "headers": {
                     "Host": "81.12.27.93"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ShadowProxy66 | CR🇨🇷 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "190.93.247.152",
+            "server_port": 80,
+            "uuid": "572e7789-76af-51c8-928b-e327d862f16c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/vless",
+                "headers": {
+                    "Host": "Uk1.vless.site."
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
@@ -7131,6 +7131,16 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣3️⃣",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c",
             "plugin": "",
             "plugin_opts": ""
         },
