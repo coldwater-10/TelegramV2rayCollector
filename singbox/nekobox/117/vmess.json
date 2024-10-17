@@ -106,8 +106,7 @@
             "outbounds": [
                 "URL-TEST | رایگان",
                 "US🇺🇸",
-                "GB🇬🇧",
-                "FR🇫🇷"
+                "GB🇬🇧"
             ]
         },
         {
@@ -143,8 +142,7 @@
                 "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | GB🇬🇧 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣3️⃣"
+                "رایگان | VMESS | @ShadowProxy66 | GB🇬🇧 | 0️⃣1️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -193,16 +191,6 @@
             "type": "urltest",
             "outbounds": [
                 "رایگان | VMESS | @ShadowProxy66 | GB🇬🇧 | 0️⃣1️⃣"
-            ],
-            "url": "https:\/\/www.gstatic.com\/generate_204",
-            "interval": "5m",
-            "tolerance": 50
-        },
-        {
-            "tag": "FR🇫🇷",
-            "type": "urltest",
-            "outbounds": [
-                "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣3️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -1194,42 +1182,6 @@
                 "path": "\/linkvws",
                 "headers": {
                     "Host": "57.128.184.119"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @Hope_Net | FR🇫🇷 | 0️⃣3️⃣",
-            "type": "vmess",
-            "server": "193.160.130.245",
-            "server_port": 443,
-            "uuid": "9b456c2a-f2c1-45e1-87a9-b7628b04bb24",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "beyonddsz.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "beyonddsz.cfd"
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
