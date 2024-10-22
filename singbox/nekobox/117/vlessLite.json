@@ -114,7 +114,7 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
@@ -271,7 +271,6 @@
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣6️⃣",
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @FAKEOFTVC | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣3️⃣",
@@ -305,7 +304,7 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣1️⃣",
                 "رایگان | VLESS | @VlessConfig | CA🇨🇦 | 0️⃣2️⃣",
                 "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣3️⃣",
@@ -462,7 +461,6 @@
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣6️⃣",
                 "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VLESS | @FAKEOFTVC | IR🇮🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣3️⃣",
@@ -685,7 +683,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -1883,7 +1881,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "3320c3d2-210c-4d58-8045-aa144e555fbe",
+            "uuid": "c5d3fb84-6f8f-4667-8e45-8d35b86701d5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1906,7 +1904,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "55096bff-e2ec-415e-9632-0a4d3db2b47d",
+            "uuid": "3320c3d2-210c-4d58-8045-aa144e555fbe",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1929,7 +1927,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "55096bff-e2ec-415e-9632-0a4d3db2b47d",
+            "uuid": "3320c3d2-210c-4d58-8045-aa144e555fbe",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1952,7 +1950,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "56f8e484-fbd8-41c2-a08e-3df64b4cb7d1",
+            "uuid": "55096bff-e2ec-415e-9632-0a4d3db2b47d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1975,7 +1973,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "56f8e484-fbd8-41c2-a08e-3df64b4cb7d1",
+            "uuid": "55096bff-e2ec-415e-9632-0a4d3db2b47d",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1998,7 +1996,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "51f7c647-6b87-416f-a8ef-f249c5c26f11",
+            "uuid": "56f8e484-fbd8-41c2-a08e-3df64b4cb7d1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2021,7 +2019,7 @@
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
-            "uuid": "51f7c647-6b87-416f-a8ef-f249c5c26f11",
+            "uuid": "56f8e484-fbd8-41c2-a08e-3df64b4cb7d1",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4857,20 +4855,6 @@
                 },
                 "max_early_data": 0,
                 "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @FAKEOFTVC | IR🇮🇷 | 0️⃣1️⃣",
-            "type": "vless",
-            "server": "wolfshop.tixoshop.com",
-            "server_port": 45764,
-            "uuid": "6fce5411-cfad-479e-b964-79197524af10",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
             }
         },
         {
